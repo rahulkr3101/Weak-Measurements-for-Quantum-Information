@@ -7,7 +7,7 @@
 # Output for Time delay
 ![TimeDelay](https://github.com/rahulkr3101/Weak-Measurements-for-Quantum-Information/assets/92712071/53fdf4d7-1cd1-4e96-9a43-b490be65b331)
 
-#Output Cruve for the interference Curve
+# Output Cruve for the interference Curve
 ![Screenshot 2023-07-03 065832](https://github.com/rahulkr3101/Weak-Measurements-for-Quantum-Information/assets/92712071/7d352dec-8a7e-4b5c-b587-926f32cf0615)
 
 
